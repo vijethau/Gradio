@@ -1,4 +1,5 @@
 import gradio as gr
+
 gr.close_all()
 
 def details(name, age, preference, hobbies):
